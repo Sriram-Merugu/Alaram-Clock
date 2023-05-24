@@ -18,5 +18,4 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 
 # Acknowledgements
 1. The tkinter library: Python documentation
-2. The playsound library: GitHub
-3. 
+2. The playsound library: GitHub 
